@@ -19,7 +19,7 @@
   - [Convolutional Neural Networks in TensorFlow](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Convolutional%20Neural%20Networks%20in%20TensorFlow.jpg" />](https://coursera.org/verify/PX4BBR47VY5X)
+      [<img src="misc/certificates/Convolutional Neural Networks in TensorFlow.jpg" />](https://coursera.org/verify/PX4BBR47VY5X)
 
   </p></details>
 
