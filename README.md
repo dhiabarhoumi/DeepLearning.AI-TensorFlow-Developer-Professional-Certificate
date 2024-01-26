@@ -5,9 +5,6 @@
 ## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 ## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
 
-[DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-
-[<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Deeplearning.AI%20TensorFlow%20Developer.jpg" />](https://https//coursera.org/verify/professional-cert/W3P5YZKP29BM)
 
 ---
 
