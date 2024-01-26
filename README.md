@@ -9,21 +9,21 @@
 ---
 
 ## Courses and Certificates
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/dhiabarhoumi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning] <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="misc/certificates/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.jpg" />](https://coursera.org/verify/4WL4PB9D583Q)
 
   </p></details>
 
-  - [Convolutional Neural Networks in TensorFlow](https://github.com/dhiabarhoumi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
+  - [Convolutional Neural Networks in TensorFlow] <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="misc/certificates/Convolutional Neural Networks in TensorFlow.jpg" />](https://coursera.org/verify/PX4BBR47VY5X)
 
   </p></details>
 
-  - [Natural Language Processing in TensorFlow](https://github.com/dhiabarhoumi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow) <details>
+  - [Natural Language Processing in TensorFlow] <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="misc/certificates/Natural Language Processing in TensorFlow.jpg" />](https://coursera.org/verify/JCGQ7E93HKX2)
